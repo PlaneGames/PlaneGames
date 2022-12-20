@@ -1,4 +1,12 @@
-### Hi there 👋
+## Menu
+
+### Ⅰ. Profile
+
+- <span style="color:FFB0C4DE"> One-Man GameDeveloper! </span>
+
+[jae0.com](https://www.jae0.com/rs)
+
+
 
 <!--
 **PlaneGames/PlaneGames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
