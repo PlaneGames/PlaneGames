@@ -1,5 +1,5 @@
 <h3 align="center">
-  Who Am I ?
+  안녕하세요
 </h3>
 
 <p align="center">
@@ -12,7 +12,7 @@
 <br/>
 
 <h3 align="center">
-  What I Am .
+  저는
 </h3>
 
 <p align="center">
