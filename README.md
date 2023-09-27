@@ -1,24 +1,3 @@
-## Menu
+## Profile
 
-### Ⅰ. Profile
-
-- <span style="color:FFB0C4DE"> One-Man GameDeveloper! </span>
-
-[jae0.com](https://www.jae0.com/rs)
-
-
-
-<!--
-**PlaneGames/PlaneGames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<span style="color:FFB0C4DE"> One-Man Game Developer </span>
